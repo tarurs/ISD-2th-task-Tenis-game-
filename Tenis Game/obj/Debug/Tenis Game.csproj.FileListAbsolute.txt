@@ -1,0 +1,10 @@
+C:\Users\polin_go7afbi\source\repos\Tenis Game\Tenis Game\bin\Debug\Tenis Game.exe.config
+C:\Users\polin_go7afbi\source\repos\Tenis Game\Tenis Game\bin\Debug\Tenis Game.exe
+C:\Users\polin_go7afbi\source\repos\Tenis Game\Tenis Game\bin\Debug\Tenis Game.pdb
+C:\Users\polin_go7afbi\source\repos\Tenis Game\Tenis Game\obj\Debug\Tenis Game.csprojResolveAssemblyReference.cache
+C:\Users\polin_go7afbi\source\repos\Tenis Game\Tenis Game\obj\Debug\Tenis_Game.Form1.resources
+C:\Users\polin_go7afbi\source\repos\Tenis Game\Tenis Game\obj\Debug\Tenis_Game.Properties.Resources.resources
+C:\Users\polin_go7afbi\source\repos\Tenis Game\Tenis Game\obj\Debug\Tenis Game.csproj.GenerateResource.Cache
+C:\Users\polin_go7afbi\source\repos\Tenis Game\Tenis Game\obj\Debug\Tenis Game.csproj.CoreCompileInputs.cache
+C:\Users\polin_go7afbi\source\repos\Tenis Game\Tenis Game\obj\Debug\Tenis Game.exe
+C:\Users\polin_go7afbi\source\repos\Tenis Game\Tenis Game\obj\Debug\Tenis Game.pdb
